@@ -134,7 +134,7 @@ flex-flow: row wrap;
 
 ## flex 项的动态尺寸
 
-现在让我们回到第一个例子，看看是如何控制 flex 项占用空间的比例的。打开你本地的 [弹性盒子 0.html](https://github.com/mdn/learning-area/blob/master/css/css-layout/flexbox/flexbox0.html)，或者拷贝 [弹性盒子 1.html](https://github.com/mdn/learning-area/blob/master/css/css-layout/flexbox/flexbox1.html) 作为新的开始（[查看线上](http://mdn.github.io/learning-area/css/css-layout/flexbox/flexbox1.html)）。
+现在让我们回到第一个例子，看看是如何控制 flex 项占用空间的比例的。打开你本地的 [弹性盒子 0.html](https://github.com/mdn/learning-area/blob/master/css/css-layout/flexbox/flexbox0.html)，或者拷贝 [flexbox1.html](https://github.com/mdn/learning-area/blob/master/css/css-layout/flexbox/flexbox1.html) 作为新的开始（[查看线上](http://mdn.github.io/learning-area/css/css-layout/flexbox/flexbox1.html)）。
 
 第一步，将以下规则添加到 CSS 的底部：
 
